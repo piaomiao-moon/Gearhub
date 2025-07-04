@@ -23,7 +23,7 @@ const color = useState('color', () => colors[Math.floor(Math.random() * colors.l
   position: absolute;
   width: 100%;
   text-align: center;
-  top: 50%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0;
