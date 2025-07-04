@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": ".env.example",
               "ToolTip": "C:\\Users\\liuhu\\source\\repos\\Gearhub\\.env.example",
               "RelativeToolTip": ".env.example",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-04T07:02:01.713Z",
               "EditorCaption": ""
@@ -47,8 +43,7 @@
               "RelativeToolTip": "app\\pages\\index.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-07-04T06:59:05.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:59:05.495Z"
             }
           ]
         }
