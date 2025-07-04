@@ -18,8 +18,8 @@ function handleSearch() {
         <h1 :style="{ color }">
             {{ runtimeConfig.public.helloText || 'Welcome to GearHub' }}
         </h1>
-        <input v-model="search" type="text" placeholder="ÇëÊäÈëÁã¼þ¹Ø¼ü´Ê" @keydown.enter="handleSearch" />
-        <button @click="handleSearch">ËÑË÷</button>
+        <input v-model="search" type="text" placeholder="Plaese" @keydown.enter="handleSearch" />
+        <button @click="handleSearch">Search</button>
     </div>
 </template>
 
