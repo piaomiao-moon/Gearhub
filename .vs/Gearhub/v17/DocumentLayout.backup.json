@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\liuhu\\source\\repos\\Gearhub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\liuhu\\source\\repos\\Gearhub\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\liuhu\\source\\repos\\Gearhub\\app\\pages\\index.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\pages\\index.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\Users\\liuhu\\source\\repos\\Gearhub\\.env.example",
+              "RelativeDocumentMoniker": ".env.example",
+              "ToolTip": "C:\\Users\\liuhu\\source\\repos\\Gearhub\\.env.example",
+              "RelativeToolTip": ".env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-04T07:02:01.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.vue",
               "DocumentMoniker": "C:\\Users\\liuhu\\source\\repos\\Gearhub\\app\\pages\\index.vue",
               "RelativeDocumentMoniker": "app\\pages\\index.vue",
               "ToolTip": "C:\\Users\\liuhu\\source\\repos\\Gearhub\\app\\pages\\index.vue",
               "RelativeToolTip": "app\\pages\\index.vue",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2025-07-04T06:59:05.495Z",
               "EditorCaption": ""

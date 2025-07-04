@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\pages"
   ],
-  "SelectedNode": "\\C:\\Users\\liuhu\\Source\\Repos\\Gearhub",
+  "SelectedNode": "\\app\\pages\\index.vue",
   "PreviewInSolutionExplorer": false
 }
